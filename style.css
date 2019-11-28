@@ -308,7 +308,7 @@ li.list_item {
 }
 .right_content_wrap{
 	width: 50%;
-	display: grid;
+	float:right;
 }
  .right_content1{
      position:relative;
@@ -1054,9 +1054,42 @@ li.list_item {
 
 @media all and (max-width:1500px){
 
+    .container {
+    width: 1325px;
+	}
 	.container_wrapper1{
 	  width:155%;	
 	}	
+	.container_wrapper2{
+	  width:155%;	
+	}	
+	.container_wrapper3{
+	  width:155%;	
+	}	
+	.container_wrapper4{
+	  width:155%;	
+	}	
+	.container_wrapper5{
+	  width:155%;	
+	}	
+	.container_wrapper6{
+	  width:155%;	
+	}	
+	.container_wrapper7{
+	  width:155%;	
+	}	
+	.container_wrapper8{
+	  width:155%;	
+	}	
+    .container8_title {
+    width: 155%;
+	}
+	.container_wrapper9{
+	  width:155%;	
+	}
+	.container_wrapper10{
+	  width:155%;	
+	}
 
 }
 
